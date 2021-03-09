@@ -1,11 +1,11 @@
 <h3>Hii there👋</h3>
-<h2>I am Manshi Todi😃</h2>
+<h2>I am Mukul Sharma</h2>
 
-<a href="https://github.com/todi-2000">
-  <img src="https://img.shields.io/badge/@manshitodi-30302f?style=flat&logo=github"/>
+<a href="https://github.com/MUKULSHARMA2001">
+  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=github"/>
 </a>
-<a href="https://twitter.com/manshitodi">
-  <img src="https://img.shields.io/badge/@manshitodi-30302f?style=flat&logo=twitter"/>
+<a href="https://twitter.com/MukulSh09837400">
+  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/manshi-todi-a017a2178">
   <img src="https://img.shields.io/badge/@manshitodi-30302f?style=flat&logo=linkedin"/>
