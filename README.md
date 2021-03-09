@@ -42,7 +42,7 @@
 
  
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
+<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="40" height="40"/> 
 </p>
 <a href="https://todi-2000.github.io">
   <img src="https://github-readme-stats.vercel.app/api?username=todi-2000&count_private=true" align="center"/>
