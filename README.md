@@ -13,6 +13,10 @@
 <a href="https://instagram.com/m_u_k_u_l_sharma_">
   <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=instagram"/>
 </a>
+<a href="https://www.facebook.com/profile.php?id=100014587358737">
+  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=facebook"/>
+</a>
+
 
 #### I am 3rd year Information Technology undergraduate student at Government Engineering College, MODASA. I am Web Developer and Competitive Programmer👩‍💻.
 
