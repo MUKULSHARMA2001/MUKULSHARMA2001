@@ -41,13 +41,3 @@
 <img src="https://raw.githubusercontent.com/sumitc91/sumitc91.github.io/master/Blogs/23a73932-d77d-4bd4-b4ab-06ea4d5183d3_c-sharp-dotnet.jpg" alt="php" width="46" height="46"/>   
 
  
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
-<img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" width="40" height="40"/> 
-</p>
-<a href="https://todi-2000.github.io">
-  <img src="https://github-readme-stats.vercel.app/api?username=todi-2000&count_private=true" align="center"/>
-</a>
-<a href="https://todi-2000.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=todi-2000&layout=compact" align="center"/>
-</a>
-
