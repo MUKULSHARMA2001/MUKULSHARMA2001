@@ -7,23 +7,23 @@
 <a href="https://twitter.com/MukulSh09837400">
   <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=twitter"/>
 </a>
-<a href="https://www.linkedin.com/in/manshi-todi-a017a2178">
-  <img src="https://img.shields.io/badge/@manshitodi-30302f?style=flat&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/mukul-sharma-9a5a201aa">
+  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=linkedin"/>
 </a>
-<a href="https://instagram.com/todi_2000">
-  <img src="https://img.shields.io/badge/@manshitodi-30302f?style=flat&logo=instagram"/>
+<a href="https://instagram.com/m_u_k_u_l_sharma_">
+  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=instagram"/>
 </a>
 
-#### I am 3rd year Information Technology undergraduate student at JSSATE Noida. I am Django Developer and Competitive Programmer👩‍💻.
+#### I am 3rd year Information Technology undergraduate student at Government Engineering College, MODASA. I am Web Developer and Competitive Programmer👩‍💻.
 
 <img align="right" alt="GIF" src="https://webstockreview.net/images/cleaning-clipart-clean-workplace.gif" width="400px"/>
 
 - 🔭 I’m currently working on **Personal Projects**. 
-- 🌱 I’m currently focusing on **Data structure and Algorithms** and learning **Frontend Development**.
-- 👯 I’d like to collaborate on **Django** based projects.
-- 📫 How to reach me **manshitodi@gmail.com**
+- 🌱 I’m currently focusing on **Data structure and Algorithms** and learning **Full Stack Development**.
+- 👯 I’d like to collaborate on **PHP** based projects.
+- 📫 How to reach me **mukulsharma50608@gmail.com**
 - 💬 Ask me about anything .
-- ⚡ Fun fact: In my free time, you'll find me watching series or standup comedy.
+- ⚡ Fun fact: In my free time, you'll find me watching web series or south indian movies.
 
 <br>
 <h2 align="left">Tech Stack</h2>
