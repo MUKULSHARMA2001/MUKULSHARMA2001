@@ -16,7 +16,7 @@
 
 #### I am 3rd year Information Technology undergraduate student at Government Engineering College, MODASA. I am Web Developer and Competitive Programmer👩‍💻.
 
-<img align="right" alt="GIF" src="https://webstockreview.net/images/cleaning-clipart-clean-workplace.gif" width="400px"/>
+<img align="right" alt="GIF" src="https://i.gifer.com/7SvE.gif" width="400px"/>
 
 - 🔭 I’m currently working on **Personal Projects**. 
 - 🌱 I’m currently focusing on **Data structure and Algorithms** and learning **Full Stack Development**.
