@@ -1,4 +1,4 @@
-<h3>Hii there👋</h3>
+<h3>Hii👋</h3>
 <h2>I am Mukul Sharma</h2>
 
 <a href="https://github.com/MUKULSHARMA2001">
