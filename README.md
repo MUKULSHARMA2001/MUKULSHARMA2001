@@ -18,7 +18,7 @@
 </a>
 
 
-#### I am 3rd year Information Technology undergraduate student at Government Engineering College, MODASA. I am Web Developer and Competitive Programmer👩‍💻.
+#### I am 4rd year Information Technology undergraduate student at Government Engineering College, MODASA. I am Web Developer and Competitive Programmer👩‍💻.
 
 <img align="right" alt="GIF" src="http://clipart-library.com/images/yTkre6E8c.gif" width="400px"/>
 
@@ -27,7 +27,7 @@
 - 👯 I’d like to collaborate on **PHP** based projects.
 - 📫 How to reach me **mukulsharma50608@gmail.com**
 - 💬 Ask me about anything .
-- ⚡ Fun fact: In my free time, you'll find me watching web series or south indian movies.
+- ⚡ Fun fact: In my free time, you'll find me watching south indian movies.
 
 <br>
 <h2 align="left">Tech Stack</h2>
