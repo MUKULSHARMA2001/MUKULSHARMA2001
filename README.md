@@ -18,11 +18,11 @@
 </a>
 
 
-#### I am 4rd year Information Technology undergraduate student at Government Engineering College, MODASA. I am Web Developer and Competitive Programmer👩‍💻.
+#### Completed degree in Information Technology at Government Engineering College, MODASA. I am Web Developer and Competitive Programmer👩‍💻.
 
 <img align="right" alt="GIF" src="http://clipart-library.com/images/yTkre6E8c.gif" width="400px"/>
 
-- 🔭 I’m currently working on **Personal Projects**. 
+- 🔭 I’m currently working in **<a href="https://theonetechnologies.com/">The One Technologies</a> as Software Engineer**. 
 - 🌱 I’m currently focusing on **Data structure and Algorithms** and learning **Full Stack Development**.
 - 👯 I’d like to collaborate on **.NET** based projects.
 - 📫 How to reach me **mukulsharma50608@gmail.com**
