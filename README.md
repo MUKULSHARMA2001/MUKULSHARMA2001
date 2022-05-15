@@ -2,19 +2,19 @@
 <h2>I am Mukul Sharma</h2>
 
 <a href="https://github.com/MUKULSHARMA2001">
-  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=github"/>
+  <img src="https://img.shields.io/badge/@mukul-github-30302f?style=flat&logo=github"/>
 </a>
 <a href="https://twitter.com/MukulSh09837400">
-  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=twitter"/>
+  <img src="https://img.shields.io/badge/@mukul-twitter-30302f?style=flat&logo=twitter"/>
 </a>
 <a href="https://www.linkedin.com/in/mukul-sharma-9a5a201aa">
-  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/@mukul-in-30302f?style=flat&logo=linkedin"/>
 </a>
 <a href="https://instagram.com/m_u_k_u_l_sharma_">
-  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=instagram"/>
+  <img src="https://img.shields.io/badge/@mukul-instagram-30302f?style=flat&logo=instagram"/>
 </a>
 <a href="https://www.facebook.com/profile.php?id=100014587358737">
-  <img src="https://img.shields.io/badge/@mukul-30302f?style=flat&logo=facebook"/>
+  <img src="https://img.shields.io/badge/@mukul-facebook-30302f?style=flat&logo=facebook"/>
 </a>
 
 
