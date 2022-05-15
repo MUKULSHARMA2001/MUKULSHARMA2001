@@ -23,11 +23,11 @@
 <img align="right" alt="GIF" src="http://clipart-library.com/images/yTkre6E8c.gif" width="400px"/>
 
 - 🔭 I’m currently working in **<a href="https://theonetechnologies.com/">The One Technologies</a> as Software Engineer**. 
-- 🌱 I’m currently focusing on **Data structure and Algorithms** and learning **Full Stack Development**.
+- 🌱 I’m currently focusing on **.NET** and learning **Full Stack Development**.
 - 👯 I’d like to collaborate on **.NET** based projects.
-- 📫 How to reach me **mukulsharma50608@gmail.com**
+- 📫 How to reach me **mukulsharma50608@gmail.com** 
 - 💬 Ask me about anything .
-- ⚡ Fun fact: In my free time, you'll find me watching south indian movies.
+- ⚡ Fun fact: In my free time, you'll find me exploring internet.
 
 <br>
 <h2 align="left">Tech Stack</h2>
