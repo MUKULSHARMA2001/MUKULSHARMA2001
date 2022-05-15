@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **Personal Projects**. 
 - 🌱 I’m currently focusing on **Data structure and Algorithms** and learning **Full Stack Development**.
-- 👯 I’d like to collaborate on **PHP** based projects.
+- 👯 I’d like to collaborate on **.NET** based projects.
 - 📫 How to reach me **mukulsharma50608@gmail.com**
 - 💬 Ask me about anything .
 - ⚡ Fun fact: In my free time, you'll find me watching south indian movies.
