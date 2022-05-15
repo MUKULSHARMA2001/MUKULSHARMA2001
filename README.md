@@ -22,7 +22,7 @@
 
 <img align="right" alt="GIF" src="http://clipart-library.com/images/yTkre6E8c.gif" width="400px"/>
 
-- 🔭 I’m currently working in **<a href="https://theonetechnologies.com/">The One Technologies</a> as Software Engineer**. 
+- 🔭 I’m currently working at **<a href="https://theonetechnologies.com/">The One Technologies</a> as Software Engineer**. 
 - 🌱 I’m currently focusing on **.NET** and learning **Full Stack Development**.
 - 👯 I’d like to collaborate on **.NET** based projects.
 - 📫 How to reach me **mukulsharma50608@gmail.com** 
